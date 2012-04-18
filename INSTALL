@@ -1,0 +1,3 @@
+Installation is done with the make install command.  This will place a binary
+named rsachal in your bin directory.  RSAChal can be launched from the 
+command line, or used interactively through a text menu.

@@ -1,0 +1,10 @@
+2005.01.29  Initial Release
+2005.02.03  v0.7.5 Release
+	- Command Line Argument Support
+	- Code Clean-up
+2005.02.05  v1.0.0 Release
+	- Start point now read from /dev/urandom rather than /dev/random
+	- fread call bugfix
+	- Full Test 88 & 128 bugfixes
+	- Challenge IV & Cypher Text Inclusion
+	- Code Clean Up

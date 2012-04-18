@@ -1,0 +1,14 @@
+This public domain software package provides ANSI C source code written to
+attempt to solve the RSA Labs RC5 Challenges.  The code for the 56bit DES
+Challenge was omitted because the challenge has already been solved.
+
+This code was written for two purposes.  First it was written to provide
+a portable alternative to people who could not run the distributed.net 
+clients because they could not trust closed source software on their 
+systems.  Secondly, this code was written to be instructional.  It is 
+written in clean and clear ANSI C to help people learn and understand
+the mechanics of large scale partial known plaintext cryptographic attack.
+For this reason, the cryptographic portion of the code is not written in
+hand optimized processor specific assembly.
+
+I hope that you will find this code interesting and inspiring.
